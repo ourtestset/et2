@@ -2,3 +2,4 @@ numpy
 PyPDF2
 matplotlib
 pandas
+sympy
